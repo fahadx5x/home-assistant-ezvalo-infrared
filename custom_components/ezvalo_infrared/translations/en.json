@@ -1,0 +1,34 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "This infrared emitter is already configured for EZVALO Infrared.",
+      "no_emitters": "No infrared emitter entity is available in Home Assistant. Add an infrared emitter device first.",
+      "reconfigure_successful": "The infrared emitter of this EZVALO Infrared device was updated."
+    },
+    "error": {
+      "invalid_emitter": "Select one of the available infrared emitter entities."
+    },
+    "step": {
+      "user": {
+        "title": "Set up EZVALO Infrared",
+        "description": "Select the infrared emitter entity that will transmit the EZVALO commands (Extended NEC, address 0x7386, 38 kHz).",
+        "data": {
+          "infrared_entity_id": "Infrared emitter"
+        },
+        "data_description": {
+          "infrared_entity_id": "The infrared emitter entity used to send the EZVALO IR commands."
+        }
+      },
+      "reconfigure": {
+        "title": "Reconfigure EZVALO Infrared",
+        "description": "Select the infrared emitter entity that will transmit the EZVALO commands.",
+        "data": {
+          "infrared_entity_id": "Infrared emitter"
+        },
+        "data_description": {
+          "infrared_entity_id": "The infrared emitter entity used to send the EZVALO IR commands."
+        }
+      }
+    }
+  }
+}
