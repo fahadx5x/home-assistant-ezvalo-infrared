@@ -11,6 +11,6 @@
   "documentation": "https://github.com/fahadx5x/home-assistant-ezvalo-infrared",
   "integration_type": "device",
   "iot_class": "assumed_state",
-  "version": "1.0.0",
-  "issue_tracker": "https://github.com/fahadx5x/home-assistant-ezvalo-infrared/issues"
+  "issue_tracker": "https://github.com/fahadx5x/home-assistant-ezvalo-infrared/issues",
+  "version": "1.0.0"
 }
