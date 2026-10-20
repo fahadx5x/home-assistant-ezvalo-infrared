@@ -42,18 +42,10 @@ This integration was developed and tested with Home Assistant's native Infrared 
 
 ### HACS
 
-Until the repository is available in the default HACS catalog:
-
 1. Open **HACS**
-2. Open the menu in the top-right corner
-3. Select **Custom repositories**
-4. Add:
-
-   `https://github.com/fahadx5x/home-assistant-ezvalo-infrared`
-
-5. Select **Integration**
-6. Install **EZVALO Infrared**
-7. Restart Home Assistant
+2. Search for **EZVALO Infrared**
+3. Download **EZVALO Infrared**
+4. Restart Home Assistant
 
 ### Manual installation
 
